@@ -27,3 +27,5 @@ release/
 RESULTS/
 CSV_EXPORT/
 
+#mac
+.DS_Store
